@@ -1,0 +1,13 @@
+http:
+ listener:
+   host: "0.0.0.0"
+   port: "9081"
+   path: "/FastGocall/{ServiceType}"
+   
+db:
+ host: "bjfsnqpaynrphqu1papx-mysql.services.clever-cloud.com"
+ port: "3306"
+ user: "uyres7cyfkhmzneu"
+ password: "Ke6o6odm3FguNhnmMOif"
+ database: "bjfsnqpaynrphqu1papx"
+ 

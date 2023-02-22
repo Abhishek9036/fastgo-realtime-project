@@ -1,0 +1,4 @@
+%dw 2.0
+
+type auto_2f99d4ac_60c7_4c92_9978_6eb34497a22c_Output_Variables_ServiceType = String | Null
+

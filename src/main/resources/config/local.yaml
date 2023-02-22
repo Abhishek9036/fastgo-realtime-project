@@ -1,0 +1,12 @@
+http:
+ listner:
+   host: "localhost"
+   port: "9081"
+   path: "/FastGocall/{serviceType}"
+   
+db:
+ host: "bjfsnqpaynrphqu1papx-mysql.services.clever-cloud.com"
+ port: "3306"
+ user: "uyres7cyfkhmzneu"
+ password: "Ke6o6odm3FguNhnmMOif"
+ username: "bjfsnqpaynrphqu1papx"
